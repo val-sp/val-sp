@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=val-sp&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
+<p align="center">
+  <img src="https://i.ibb.co/57915q8/Gemini-Generated-Image-jgxeuqjgxeuqjgxe.png" alt="panda banner" width="120%"/>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
