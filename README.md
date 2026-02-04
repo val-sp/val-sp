@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=val-sp&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://postimg.cc/DSrzH8Vb" alt="Shubhrojit Banner" width="120%"/>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -51,7 +47,7 @@
 <p align="center">
   <a href="mailto:shubhrojitp05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/val-sp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/shubhrojit-panda-7b416728a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubhrojit-panda-7b416728a//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
 
