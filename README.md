@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Shubhrojit.</h1>
 
-<!--
-**val-sp/val-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=val-sp&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://postimg.cc/DSrzH8Vb" alt="Shubhrojit Banner" width="120%"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+###  Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,ts,mysql,postgres" />
+</p>
+
+###  Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,firebase" />
+</p>
+
+###  Libraries / Frameworks 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,tailwind,nodejs,express,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=val-sp&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=val-sp&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=val-sp&layout=compact&theme=radical&hide_border=true" width="50%" />
+</p>
+
+##  Let's Connect
+<p align="center">
+  <a href="mailto:shubhrojitp05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/val-sp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/shubhrojit-panda-7b416728a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
+
+<h3 align="center">Thanks for stopping by!  Happy Coding!</h3>
