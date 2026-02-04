@@ -32,13 +32,14 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=val-sp&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=val-sp&theme=radical&hide_border=true" width="48%" />
-</p>
+<br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=val-sp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=val-sp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=val-sp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=val-sp&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
